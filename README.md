@@ -40,7 +40,7 @@ JavaScript
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/thalesbrenodev/clone-mercado-livr
 
 
 Abra o arquivo index.html no navegador
@@ -79,3 +79,4 @@ Ajustar para projeto só com HTML/CSS
 Personalizar com base no código real que você fez
 
 É só falar 👍
+
